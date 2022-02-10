@@ -33,8 +33,15 @@ function method1($file){
 	var_dump($data);
 	return $data;
 }
-function method2(){
-	return;
+function method2($file)
+{
+	//gebruikt imagick, een library
+	$im = new imagick($file);
+	$newHeight = 400;
+	$newWidth = 400;
+	$im->resizeImage($newWidth, $newHeight, imagick::FILTER_LANCZOS, 0.9, true);
+	$im->writeImage("res\method2");
+	return $im;
 }
 function method3(){
 	return;
@@ -60,7 +67,8 @@ $imgs = glob($dir_name."*.png");
 foreach ($imgs as $img) {
 	//echo '<img src="'.$img.'" /><br />';
 	// Read image path, convert to base64 encoding
-	method1($img);
+	// method1($img);
+	method2($img);
 }
 
 // $dirlist = scandir('.');
