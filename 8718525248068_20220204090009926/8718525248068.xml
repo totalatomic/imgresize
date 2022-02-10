@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage MessageSchemaVersionId="ern/382" ReleaseProfileVersionId="CommonReleaseTypes/13/AudioSingle" xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" xmlns:avs="http://ddex.net/xml/avs/avs_20161006.xsd">
+  <MessageHeader>
+    <MessageThreadId>FUGA_5072541426</MessageThreadId>
+    <MessageId>FUGA_5072541426</MessageId>
+    <MessageFileName>8718525248068.xml</MessageFileName>
+    <MessageSender>
+      <PartyId>PADPIDA20110330020</PartyId>
+      <PartyName>
+        <FullName>FUGA</FullName>
+      </PartyName>
+    </MessageSender>
+    <SentOnBehalfOf>
+      <PartyId>PADPIDA2012032904V</PartyId>
+      <PartyName>
+        <FullName>Black Hole Recordings</FullName>
+      </PartyName>
+    </SentOnBehalfOf>
+    <MessageRecipient>
+      <PartyId Namespace="PADPIDA20110330020">3244613392</PartyId>
+      <PartyName>
+        <FullName>Black Hole Recordings DSP 2</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2022-02-04T08:59:54+01:00</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>UpdateMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>NLD682104756</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">4844365378</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Afraid of my Heart</TitleText>
+      </ReferenceTitle>
+      <LanguageOfPerformance>en</LanguageOfPerformance>
+      <Duration>PT2M22S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Afraid of my Heart</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sixth Sense</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Copyright Control</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Siak Swee Peng</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Siak Swee Peng</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Sixth Sense</DisplayArtistName>
+        <LabelName>TurnItUp Muzik</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Siak Swee Peng</FullName>
+          </PartyName>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightShareUnknown>true</RightShareUnknown>
+        </RightsController>
+        <OriginalResourceReleaseDate>2022-02-04</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>TurnItUp Muzik</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Mainstage</SubGenre>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>MP3</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>0</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8718525248068_T1_0_SoundRecording_001_001.mp3</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>183717d260141994b40ff53e774ee357</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="PADPIDA20110330020">4844395698</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A2</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+          <ImageCodecType>PNG</ImageCodecType>
+          <File>
+            <FileName>8718525248068_T2_Image.png</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>8d153321241706f2abf9fad1df109778</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <ICPN IsEan="true">8718525248068</ICPN>
+        <CatalogNumber Namespace="PADPIDA20110330020">TIUM484-1</CatalogNumber>
+        <ProprietaryId Namespace="PADPIDA20110330020">4844401052</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Afraid of my Heart</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A2</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Single</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Sixth Sense</DisplayArtistName>
+        <LabelName>TurnItUp Muzik</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Afraid of my Heart</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Afraid of my Heart</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sixth Sense</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title>
+              <TitleText>Disc-1</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Mainstage</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-02-04</ReleaseDate>
+        <OriginalReleaseDate>2022-02-04</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>TurnItUp Muzik</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>TurnItUp Muzik</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>NLD682104756</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Afraid of my Heart</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Sixth Sense</DisplayArtistName>
+        <LabelName>TurnItUp Muzik</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Afraid of my Heart</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Afraid of my Heart</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sixth Sense</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8718525248068</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Mainstage</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-02-04</ReleaseDate>
+        <OriginalReleaseDate>2022-02-04</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>TurnItUp Muzik</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>TurnItUp Muzik</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R0</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-04</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-04</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-04</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-04</EffectiveDate>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>

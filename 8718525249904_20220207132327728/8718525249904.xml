@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage MessageSchemaVersionId="ern/382" ReleaseProfileVersionId="CommonReleaseTypes/13/AudioSingle" xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" xmlns:avs="http://ddex.net/xml/avs/avs_20161006.xsd">
+  <MessageHeader>
+    <MessageThreadId>FUGA_5082249969</MessageThreadId>
+    <MessageId>FUGA_5082249969</MessageId>
+    <MessageFileName>8718525249904.xml</MessageFileName>
+    <MessageSender>
+      <PartyId>PADPIDA20110330020</PartyId>
+      <PartyName>
+        <FullName>FUGA</FullName>
+      </PartyName>
+    </MessageSender>
+    <SentOnBehalfOf>
+      <PartyId>PADPIDA2012032904V</PartyId>
+      <PartyName>
+        <FullName>Black Hole Recordings</FullName>
+      </PartyName>
+    </SentOnBehalfOf>
+    <MessageRecipient>
+      <PartyId Namespace="PADPIDA20110330020">3244613392</PartyId>
+      <PartyName>
+        <FullName>Black Hole Recordings DSP 2</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2022-02-07T13:18:52+01:00</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>UpdateMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>NLD682200213</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">4972150291</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Waiting on the Beach</TitleText>
+      </ReferenceTitle>
+      <IsInstrumental>true</IsInstrumental>
+      <Duration>PT5M31S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Foxhill</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Solarstone Music Limited</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Foxhill</DisplayArtistName>
+        <LabelName>Pure Progressive</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Samuel Wangsness</FullName>
+          </PartyName>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightShareUnknown>true</RightShareUnknown>
+        </RightsController>
+        <OriginalResourceReleaseDate>2022-02-18</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>Pure Progressive</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>MP3</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>0</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8718525249904_T1_0_SoundRecording_001_001.mp3</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>612a6c9884b0805e15167077db50fd21</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>NLD682200211</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">4972150289</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Waiting on the Beach</TitleText>
+        <SubTitle>Extended Mix</SubTitle>
+      </ReferenceTitle>
+      <IsInstrumental>true</IsInstrumental>
+      <Duration>PT9M46S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+          <SubTitle>Extended Mix</SubTitle>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Foxhill</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Solarstone Music Limited</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Samuel Wangsness</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Foxhill</DisplayArtistName>
+        <LabelName>Pure Progressive</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Samuel Wangsness</FullName>
+          </PartyName>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightShareUnknown>true</RightShareUnknown>
+        </RightsController>
+        <OriginalResourceReleaseDate>2022-02-18</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>Pure Progressive</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T2_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>MP3</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>0</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8718525249904_T2_0_SoundRecording_001_002.mp3</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>746e141b0a9084d26260773bb1b86bc0</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>NLD682200212</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">4972150287</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Waiting on the Beach</TitleText>
+        <SubTitle>DJ Mix</SubTitle>
+      </ReferenceTitle>
+      <IsInstrumental>true</IsInstrumental>
+      <Duration>PT7M34S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+          <SubTitle>DJ Mix</SubTitle>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Foxhill</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Solarstone Music Limited</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Foxhill</DisplayArtistName>
+        <LabelName>Pure Progressive</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Samuel Wangsness</FullName>
+          </PartyName>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightShareUnknown>true</RightShareUnknown>
+        </RightsController>
+        <OriginalResourceReleaseDate>2022-02-18</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>Pure Progressive</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T3_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>MP3</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>0</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8718525249904_T3_0_SoundRecording_001_003.mp3</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>00143f8c3bfd47f1c5999c73176f4c1b</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="PADPIDA20110330020">4972157632</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A4</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+          <ImageCodecType>PNG</ImageCodecType>
+          <File>
+            <FileName>8718525249904_T4_Image.png</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>8b41ecacd50acc71761fac43c7bc5b08</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Text>
+      <TextType>LinerNotes</TextType>
+      <TextId>
+        <ProprietaryId Namespace="PADPIDA20110330020">8718525249904.txt</ProprietaryId>
+      </TextId>
+      <ResourceReference>A5</ResourceReference>
+      <TextDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalTextDetails>
+          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+          <File>
+            <FileName>8718525249904_T5_Text.txt</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>386833de00a162d81f7a0de0347d9349</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalTextDetails>
+      </TextDetailsByTerritory>
+    </Text>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <ICPN IsEan="true">8718525249904</ICPN>
+        <CatalogNumber Namespace="PADPIDA20110330020">PTP151-1</CatalogNumber>
+        <ProprietaryId Namespace="PADPIDA20110330020">4972217178</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Waiting on the Beach</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A5</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Single</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Foxhill</DisplayArtistName>
+        <LabelName>Pure Progressive</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Foxhill</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title>
+              <TitleText>Disc-1</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>2</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>3</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A4</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A5</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-02-18</ReleaseDate>
+        <OriginalReleaseDate>2022-02-18</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>Pure Progressive</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>Pure Progressive</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>NLD682200213</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Waiting on the Beach</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Foxhill</DisplayArtistName>
+        <LabelName>Pure Progressive</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Foxhill</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8718525249904</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-02-18</ReleaseDate>
+        <OriginalReleaseDate>2022-02-18</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>Pure Progressive</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>Pure Progressive</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>NLD682200211</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R2</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Waiting on the Beach</TitleText>
+        <SubTitle>Extended Mix</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Foxhill</DisplayArtistName>
+        <LabelName>Pure Progressive</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+          <SubTitle>Extended Mix</SubTitle>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+          <SubTitle>Extended Mix</SubTitle>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Foxhill</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8718525249904</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-02-18</ReleaseDate>
+        <OriginalReleaseDate>2022-02-18</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>Pure Progressive</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>Pure Progressive</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>NLD682200212</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R3</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Waiting on the Beach</TitleText>
+        <SubTitle>DJ Mix</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Foxhill</DisplayArtistName>
+        <LabelName>Pure Progressive</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+          <SubTitle>DJ Mix</SubTitle>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Waiting on the Beach</TitleText>
+          <SubTitle>DJ Mix</SubTitle>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Foxhill</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8718525249904</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-02-18</ReleaseDate>
+        <OriginalReleaseDate>2022-02-18</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>Pure Progressive</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>Pure Progressive</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R0</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-07</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-07</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R2</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-07</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R3</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-02-18</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-07</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-07</EffectiveDate>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>

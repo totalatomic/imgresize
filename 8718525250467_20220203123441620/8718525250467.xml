@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage MessageSchemaVersionId="ern/382" ReleaseProfileVersionId="CommonReleaseTypes/13/AudioSingle" xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" xmlns:avs="http://ddex.net/xml/avs/avs_20161006.xsd">
+  <MessageHeader>
+    <MessageThreadId>FUGA_5066541464</MessageThreadId>
+    <MessageId>FUGA_5066541464</MessageId>
+    <MessageFileName>8718525250467.xml</MessageFileName>
+    <MessageSender>
+      <PartyId>PADPIDA20110330020</PartyId>
+      <PartyName>
+        <FullName>FUGA</FullName>
+      </PartyName>
+    </MessageSender>
+    <SentOnBehalfOf>
+      <PartyId>PADPIDA2012032904V</PartyId>
+      <PartyName>
+        <FullName>Black Hole Recordings</FullName>
+      </PartyName>
+    </SentOnBehalfOf>
+    <MessageRecipient>
+      <PartyId Namespace="PADPIDA20110330020">3244613392</PartyId>
+      <PartyName>
+        <FullName>Black Hole Recordings DSP 2</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2022-02-03T12:34:06+01:00</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>UpdateMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>NLD682200278</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">5000281180</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Life In Trance</TitleText>
+      </ReferenceTitle>
+      <IsInstrumental>true</IsInstrumental>
+      <Duration>PT3M30S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Life In Trance</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sam Laxton</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Solarstone Music Limited</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Samuel Laxton</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Sam Laxton</DisplayArtistName>
+        <LabelName>Pure Trance NEON</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Samuel Laxton</FullName>
+          </PartyName>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightShareUnknown>true</RightShareUnknown>
+        </RightsController>
+        <OriginalResourceReleaseDate>2022-03-04</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>Pure Trance NEON</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>MP3</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>0</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8718525250467_T1_0_SoundRecording_001_001.mp3</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>e1f3d95c025bdf30d2b6fb87d5ca3f3c</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>NLD682200277</ISRC>
+        <ProprietaryId Namespace="PADPIDA20110330020">5000281177</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Life In Trance</TitleText>
+        <SubTitle>Extended Mix</SubTitle>
+      </ReferenceTitle>
+      <IsInstrumental>true</IsInstrumental>
+      <Duration>PT7M0S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Life In Trance</TitleText>
+          <SubTitle>Extended Mix</SubTitle>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sam Laxton</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Solarstone Music Limited</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <IndirectResourceContributor>
+          <PartyName>
+            <FullName>Samuel Laxton</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Sam Laxton</DisplayArtistName>
+        <LabelName>Pure Trance NEON</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Samuel Laxton</FullName>
+          </PartyName>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightShareUnknown>true</RightShareUnknown>
+        </RightsController>
+        <OriginalResourceReleaseDate>2022-03-04</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>Pure Trance NEON</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T2_0</TechnicalResourceDetailsReference>
+          <AudioCodecType>MP3</AudioCodecType>
+          <BitRate UnitOfMeasure="kbps">128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate UnitOfMeasure="kHz">44.1</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <IsPreview>false</IsPreview>
+          <PreviewDetails>
+            <StartPoint>0</StartPoint>
+            <Duration>PT30S</Duration>
+            <ExpressionType>Instructive</ExpressionType>
+          </PreviewDetails>
+          <File>
+            <FileName>8718525250467_T2_0_SoundRecording_001_002.mp3</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>05ba49f157d0941ee3316f91ffd5ebcd</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+      <TerritoryOfCommissioning>Worldwide</TerritoryOfCommissioning>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="PADPIDA20110330020">5000291992</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A3</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+          <ImageCodecType>PNG</ImageCodecType>
+          <File>
+            <FileName>8718525250467_T3_Image.png</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>3fec97198a993434ee114c622f40de1c</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Text>
+      <TextType>LinerNotes</TextType>
+      <TextId>
+        <ProprietaryId Namespace="PADPIDA20110330020">8718525250467.txt</ProprietaryId>
+      </TextId>
+      <ResourceReference>A4</ResourceReference>
+      <TextDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalTextDetails>
+          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+          <File>
+            <FileName>8718525250467_T4_Text.txt</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>ef609b95cb4511c7a78ab12a8052cf41</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalTextDetails>
+      </TextDetailsByTerritory>
+    </Text>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <ICPN IsEan="true">8718525250467</ICPN>
+        <CatalogNumber Namespace="PADPIDA20110330020">PTN081-1</CatalogNumber>
+        <ProprietaryId Namespace="PADPIDA20110330020">5000319195</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Life in Trance</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A4</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Single</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Sam Laxton</DisplayArtistName>
+        <LabelName>Pure Trance NEON</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Life in Trance</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Life in Trance</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sam Laxton</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title>
+              <TitleText>Disc-1</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>2</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+              <IsInstantGratificationResource>false</IsInstantGratificationResource>
+              <IsPreOrderIncentiveResource>false</IsPreOrderIncentiveResource>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A3</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A4</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-03-04</ReleaseDate>
+        <OriginalReleaseDate>2022-03-04</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>Pure Trance NEON</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>Pure Trance NEON</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>NLD682200278</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Life In Trance</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Sam Laxton</DisplayArtistName>
+        <LabelName>Pure Trance NEON</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Life In Trance</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Life In Trance</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sam Laxton</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8718525250467</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-03-04</ReleaseDate>
+        <OriginalReleaseDate>2022-03-04</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>Pure Trance NEON</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>Pure Trance NEON</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>NLD682200277</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R2</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Life In Trance</TitleText>
+        <SubTitle>Extended Mix</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Sam Laxton</DisplayArtistName>
+        <LabelName>Pure Trance NEON</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Life In Trance</TitleText>
+          <SubTitle>Extended Mix</SubTitle>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Life In Trance</TitleText>
+          <SubTitle>Extended Mix</SubTitle>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Sam Laxton</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">8718525250467</ICPN>
+          </ReleaseId>
+          <ReleaseRelationshipType>IsReleaseFromRelease</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroupContentItem>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Dance</GenreText>
+          <SubGenre>Trance</SubGenre>
+        </Genre>
+        <ReleaseDate>2022-03-04</ReleaseDate>
+        <OriginalReleaseDate>2022-03-04</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2022</Year>
+        <PLineText>Pure Trance NEON</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2022</Year>
+        <CLineText>Pure Trance NEON</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R0</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-03</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-03</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-03</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-03</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R2</DealReleaseReference>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>OnDemandStream</UseType>
+            <UseType>NonInteractiveStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="PADPIDA20110330020">MID</PriceRangeType>
+            <PriceType Namespace="PADPIDA20110330020">MID</PriceType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2022-03-04</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>UseAsRingtone</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <EndDate>2022-02-03</EndDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2022-02-03</EffectiveDate>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
